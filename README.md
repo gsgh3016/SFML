@@ -42,4 +42,5 @@ Run C/C++ File 선택 시 실행<br>
 # 2. clone하기
 
 ```linux
+git clone https://github.com/gsgh3016/SFML [your dir]
 ```
